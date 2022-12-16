@@ -1,5 +1,5 @@
 #include "monty.h"
-#include "lists.h"
+
 
 /**
  * free_var - free the global struct variable
