@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # monty
 # monty
 
@@ -14,3 +15,6 @@ Files containing Monty byte codes usually have the .m extension. Most of the ind
 <h3> authors</h3>
 <li> Waley-code
 <li> Eliwarrie
+=======
+
+>>>>>>> cdef61a1b985439f520cdbd2d8df7b1ef5b2476c
